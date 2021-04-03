@@ -58,7 +58,10 @@ If these commands print out a version number in the terminal, you are good to go
 <!-- USAGE EXAMPLES -->
 
 ## Usage
-The app consists of an editor and a previewer. A user types input in Markdown syntax into the editor and sees formatted output next to it in the previewer/result.
+The app consists of a break length which by default displays 5, a session length which by default displays 25 and a timer display which correspond with the session length.
+The lengths also has increase and decrease buttons to set the values, a play/pause and reset buttons to play, pause or reset the timer respectively.
+
+When the clock start, the timer begins running from the value currently displayed in the session length. When the time reaches 00:00 it plays a beep sound and switches to the break mode running from the value displayed in the break length.
 
 [Click here](https://codepen.io/marsiya-issah/full/GRNdrrr) to view project on CodePen
 
