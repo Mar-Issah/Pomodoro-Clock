@@ -64,7 +64,7 @@ The lengths also has increase and decrease buttons to set the values, a play/pau
 
 When the clock start, the timer begins running from the value currently displayed in the session length. When the time reaches 00:00 it plays a beep sound and switches to the break mode running from the value displayed in the break length.
 
-[Click here](https://codepen.io/marsiya-issah/full/GRNdrrr) to view project on CodePen
+[Click here](https://codepen.io/marsiya-issah/full/GRNdrrr) to view project on CodePen.
 
 
 <br>
